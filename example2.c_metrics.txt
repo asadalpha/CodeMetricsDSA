@@ -1,0 +1,4 @@
+Metrics for example2.c:
+Lines of code: 24
+Number of functions: 1
+Cyclomatic complexity: 4
